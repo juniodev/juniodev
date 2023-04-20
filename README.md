@@ -24,7 +24,7 @@ Meu nome é Junio e eu sou um desenvolvedor apaixonado por tecnologia e aprendiz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniodeveloper&layout=compact)](https://github.com/juniodeveloper/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniodeveloper&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniodeveloper&show_icons=true)
 
 ## Contato
 
