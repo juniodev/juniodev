@@ -23,9 +23,9 @@ Meu nome é Junio e eu sou um desenvolvedor apaixonado por tecnologia e aprendiz
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniodeveloper&layout=compact)](https://github.com/juniodeveloper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniodev&layout=compact)](https://github.com/juniodeveloper/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniodeveloper&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniodev&show_icons=true)
 
 ## Contato
 
