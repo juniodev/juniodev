@@ -4,7 +4,7 @@ Meu nome é Junio e eu sou um desenvolvedor apaixonado por tecnologia e aprendiz
 
 ## Projetos Pessoais
 
-- [NewsWire: Notícias atualizadas](https://play.google.com/store/apps/details?id=com.app.newswire)
+- [SeeNews - Notícias e Debates](https://play.google.com/store/apps/details?id=XYZ.seenews.innoapps)
 - [Projeto de rede social para esportes] (em desenvolvimento)
 
 ## Habilidades
