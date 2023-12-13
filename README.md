@@ -4,7 +4,7 @@ Meu nome é Junio e eu sou um desenvolvedor apaixonado por tecnologia e aprendiz
 
 ## Projetos Pessoais
 
-- [SeeNews - Notícias e Debates](https://play.google.com/store/apps/details?id=XYZ.seenews.innoapps)
+- [SeeNews - Notícias e Debates](https://play.google.com/store/apps/details?id=xyz.seenews.innoapps)
 - [Projeto de rede social para esportes] (em desenvolvimento)
 
 ## Habilidades
